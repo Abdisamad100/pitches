@@ -55,7 +55,7 @@ def update_profile(uname):
 def index():
 
     message= "Welcome to Pitch Application!!"
-    title= 'Pitch-app!'
+    title= 'Pitch-app'
 
 
     return render_template('index.html', message=message,title=title)
@@ -83,7 +83,7 @@ def new_pitch():
         return redirect(url_for('main.index'))
 
     return render_template('pitch.html',form= form)
-    
+
 
 @main.route('/categories/<cate>')
 def category(cate):
