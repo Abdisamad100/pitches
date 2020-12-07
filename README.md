@@ -15,8 +15,8 @@ Fork the repo Create a new branch (git checkout -b improve-feature) Make the app
 # Technologies used
 -Python3.6 -pip
 
-Author
+# Author
 Abdisamad Mohamed
 
-License
-MIT --> --> --> -->
+<!-- License
+MIT --> --> --> --> -->
