@@ -18,5 +18,5 @@ Fork the repo Create a new branch (git checkout -b improve-feature) Make the app
 # Author
 Abdisamad Mohamed
 
-<!-- License
-MIT --> --> --> --> -->
+# License
+MIT 
