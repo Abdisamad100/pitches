@@ -1,4 +1,3 @@
-#export MOVIE_API_KEY=<Your api key>
-export SECRET_KEY=<Your secret key>
+export SECRET_KEY='P0726878834P'
 
 python3.6 manage.py server

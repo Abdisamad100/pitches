@@ -1,1 +1,1 @@
-SECRET_KEY=<Your secret key>
+SECRET_KEY = 'P0726878834P'
