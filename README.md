@@ -1,10 +1,10 @@
 # pitches
 An application that allows users to create account and write their pitches on whatever category they like and allows others to comment about their pitches .
 
-<!-- Demo
+# Demo
 Here is a working live demo :
 
-Mobile support
+<!-- Mobile support
 The News-API is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
 
 Usage
@@ -19,4 +19,4 @@ Author
 Abdisamad Mohamed
 
 License
-MIT -->
+MIT --> -->
