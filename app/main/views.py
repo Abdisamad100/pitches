@@ -1,4 +1,4 @@
-from flask_login import login_required
+from flask_login import login_required,current_user
 from flask import render_template,request,redirect,url_for,abort
 from ..models import  User,Pitches
 from .forms import PitchForm,CommentForm,UpdateProfile
